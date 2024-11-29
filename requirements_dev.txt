@@ -27,3 +27,4 @@ mkdocstrings-crystal
 mkdocstrings-python-legacy
 pygments
 pymdown-extensions
+tornado>=6.4.2 # not directly required, pinned by Snyk to avoid a vulnerability
